@@ -1,4 +1,8 @@
+# General requirements
+python-dotenv
+
+# Azure SDK requirements
 azure-ai-projects
 azure-identity
 azure-ai-textanalytics
-python-dotenv
+azure-ai-inference
