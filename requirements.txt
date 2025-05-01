@@ -6,3 +6,4 @@ azure-ai-projects
 azure-identity
 azure-ai-textanalytics
 azure-ai-inference
+openai
